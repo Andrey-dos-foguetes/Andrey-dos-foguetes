@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Ampliando meus conhecimentos em programação enquanto mantenho meu fascínio pela área <br>📚 Atualmente estou aprendendo HTML e CSS<br>🎯 Objetivos: estagiar em uma empresa grande/aplicar meus conhecimentos nas minhas áreas de interesse.</p>
+<p align="left">Ampliando meus conhecimentos em programação enquanto mantenho meu fascínio pela área <br>📚 Atualmente estou aprendendo HTML e CSS<br>🎯 Objetivos: estagiar em uma empresa grande/aplicar meus conhecimentos nas minhas áreas de interesse (🌌/🧠).</p>
 
 ###
 
