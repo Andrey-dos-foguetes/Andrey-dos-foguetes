@@ -1,5 +1,15 @@
-**Olá, meu nome é Andrey!**
+<h1 align="left">Olá!👋 </h1>
 
-*Ampliando meu conhecimento no mundo da programação*
+###
 
-Atualmente pretendo usar meu conhecimento adquirido para áreas de meu interesse: a **Física** e a **Neurociência**
+<p align="left">Meu nome é Andrey</p>
+
+###
+
+<h2 align="left">Ampliando meus conhecimentos em programação enquanto mantenho meu fascínio pela área</h2>
+
+###
+
+<p align="left">📚 Atualmente estou aprendendo HTML e CSS<br>🎯 Objetivos: estagiar em uma empresa grande/aplicar meus conhecimentos nas minhas áreas de interesse.<br></p>
+
+###
